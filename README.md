@@ -8,7 +8,7 @@ This fitness application is a comprehensive platform designed to help users acce
 
 ## Features
 
-- # Pagination: Navigate through the extensive exercise library with ease using pagination.
-- # Exercise Details Page: Access detailed information about each exercise, including technique, muscle groups targeted, and equipment required.
-- # Exercise Filtering: Filter exercises based on various criteria to find exercises tailored to specific needs and preferences.
-- # Exercise Search: Quickly search for exercises by name or keyword, making it easy to find specific exercises.
+- Pagination: Navigate through the extensive exercise library with ease using pagination.
+- Exercise Details Page: Access detailed information about each exercise, including technique, muscle groups targeted, and equipment required.
+- Exercise Filtering: Filter exercises based on various criteria to find exercises tailored to specific needs and preferences.
+- Exercise Search: Quickly search for exercises by name or keyword, making it easy to find specific exercises.
