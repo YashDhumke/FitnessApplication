@@ -1,8 +1,14 @@
-# React Fitness Application
+
 
 ![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+# Fitness Application
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+This fitness application is a comprehensive platform designed to help users access a wide range of exercises conveniently. With over 1000 exercises available, users can easily find the exercises they need to meet their fitness goals. The application is built using ReactJS and Material UI, providing a modern and user-friendly interface.
+
+## Features
+
+- # Pagination: Navigate through the extensive exercise library with ease using pagination.
+- # Exercise Details Page: Access detailed information about each exercise, including technique, muscle groups targeted, and equipment required.
+- # Exercise Filtering: Filter exercises based on various criteria to find exercises tailored to specific needs and preferences.
+- # Exercise Search: Quickly search for exercises by name or keyword, making it easy to find specific exercises.
